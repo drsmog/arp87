@@ -1,0 +1,27 @@
+{
+  "name": "arp87",
+  "version": "1.0.0",
+  "description": "magic",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drsmog/arp87.git"
+  },
+  "author": "smog",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/drsmog/arp87/issues"
+  },
+  "homepage": "https://github.com/drsmog/arp87#readme",
+  "dependencies": {
+    "electron": "1.7.10",
+    "serialport": "6.0.4"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.6.0"
+  }
+}
